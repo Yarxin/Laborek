@@ -8565,3 +8565,4 @@ Numer próbka: 78Naprężenie: 3,81993352695565E-07
 Numer próbka: 79Naprężenie: 3,77218435786871E-07
 Program start!
 Program start!
+Program start!
