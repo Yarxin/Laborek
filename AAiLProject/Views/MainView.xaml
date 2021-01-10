@@ -201,16 +201,18 @@
                             Foreground="WhiteSmoke"
                             Background="#8A2BE2"
                             BorderThickness="0"
+                            Click="LoadFile_Click"
                             />
                         <Button
-                            x:Name="b"
+                            x:Name="GetMeanAndStressFunction"
                             Grid.Row="4"
-                            Content="Rozpocznij"
+                            Content="Zaawansowane"
                             FontSize="32"
                             FontWeight="DemiBold"
                             Foreground="WhiteSmoke"
                             Background="#8A2BE2"
                             BorderThickness="0"
+                            Click="GetMeanAndStressFunction_Click"
                             />
                         <Button
                             x:Name="a"
@@ -240,15 +242,15 @@
                     </Grid>
                 </StackPanel>
 
-                <StackPanel Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="30, 10, 15,0">
+                <StackPanel x:Name="FirstPlotStackPanel" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="30, 10, 15,0">
                     <Grid>
                         <Grid.RowDefinitions>
-                            <RowDefinition Height="365" Tag="0"/>
+                            <RowDefinition Height="auto" Tag="0"/>
                             <RowDefinition Height="10" Tag="1"/>
-                            <RowDefinition Height="365" Tag="2"/>
+                            <RowDefinition Height="auto" Tag="2"/>
                         </Grid.RowDefinitions>
 
-                        <oxy:Plot Title="Średnia liczba oderwanych komórek w funkcji odległości" HorizontalAlignment="Stretch" Height="370">
+                        <oxy:Plot Grid.Row="0" Title="Średnia liczba oderwanych komórek w funkcji odległości" HorizontalAlignment="Stretch" Height="365">
                             <oxy:Plot.Series>
                                 <oxy:LineSeries ItemsSource="{Binding MeanPlot}" Color="Purple" LineStyle="Dot"/>
                                 <oxy:LineSeries ItemsSource="{Binding UpperConfidenceIntervalPlot}" Color="Red" LineStyle="Dash"/>
@@ -256,12 +258,23 @@
                             </oxy:Plot.Series>
                         </oxy:Plot>
 
-                        <oxy:Plot Grid.Row="2" Title="Naprężenie w funkcji odległości" HorizontalAlignment="Stretch" Height="370">
+                        <oxy:Plot Grid.Row="2" Title="Naprężenie w funkcji odległości" HorizontalAlignment="Stretch" Height="365">
                             <oxy:Plot.Series>
                                 <oxy:LineSeries ItemsSource="{Binding HydrodynamicStressPlot}" Color="Purple" LineStyle="Dot"/>
                             </oxy:Plot.Series>
                         </oxy:Plot>
                     </Grid>                    
+                </StackPanel>
+
+                <StackPanel x:Name="LastPlotStackPanel" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="30, 10, 15,0">
+                    <Grid>
+                        <oxy:Plot Grid.Row="0" Title="Liczba oderwanych komórek w funkcji naprężenia" HorizontalAlignment="Stretch" Height="730">
+                            <oxy:Plot.Series>
+                                <oxy:LineSeries ItemsSource="{Binding MeanAndStressPlot}" Color="Purple" LineStyle="LongDash"/>
+                                <oxy:LineSeries ItemsSource="{Binding HalfRateStressValue}" Color="Yellow"/>
+                            </oxy:Plot.Series>
+                        </oxy:Plot>
+                    </Grid>
                 </StackPanel>
 
             </Grid>

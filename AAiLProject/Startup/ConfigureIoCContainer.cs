@@ -24,6 +24,7 @@ namespace AAiLProject.Startup
             container.PerRequest<ILoadFiledService, LoadFileService>();
             container.PerRequest<IDataProcessorService, DataProcessorService>();
             container.PerRequest<IHydroDynamicStressService, HydroDynamicStressService>();
+            container.PerRequest<ICellAndStressService, CellAndStressService>();
         }
     }
 }

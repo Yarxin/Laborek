@@ -117,8 +117,10 @@
     </Compile>
     <Compile Include="Models\DiagonalDataModel.cs" />
     <Compile Include="Models\SimpleDataModel.cs" />
+    <Compile Include="Service\CellAndStressService.cs" />
     <Compile Include="Service\DataProcessorService.cs" />
     <Compile Include="Service\HydroDynamicStressService.cs" />
+    <Compile Include="Service\IService\ICellAndStressService.cs" />
     <Compile Include="Service\IService\IHydroDynamicStressService.cs" />
     <Compile Include="Service\IService\IDataProcessorService.cs" />
     <Compile Include="Service\IService\ILoadFiledService.cs" />

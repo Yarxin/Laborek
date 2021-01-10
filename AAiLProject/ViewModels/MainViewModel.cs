@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace AAiLProject.ViewModels
 {
@@ -17,12 +18,15 @@ namespace AAiLProject.ViewModels
         private readonly ILoadFiledService loadFileService;
         private readonly IDataProcessorService dataProcessorService;
         private readonly IHydroDynamicStressService hydroDynamicStressService;
+        private readonly ICellAndStressService cellAndStressService;
 
         private SimpleDataModel dataModel;
         private IList<DataPoint> meanPlot;
         private IList<DataPoint> upperConfidenceIntervalPlot;
         private IList<DataPoint> lowerConfidenceIntervalPlot;
         private IList<DataPoint> hydrodynamicStressPlot;
+        private IList<DataPoint> meanAndStressPlot;
+        private IList<DataPoint> halfRateStressValue;
 
         private bool isDiagonal;
 
@@ -39,11 +43,13 @@ namespace AAiLProject.ViewModels
 
         public MainViewModel(ILoadFiledService loadFileService,
                              IDataProcessorService dataProcessorService,
-                             IHydroDynamicStressService hydroDynamicStressService)
+                             IHydroDynamicStressService hydroDynamicStressService,
+                             ICellAndStressService cellAndStressService)
         {
             this.loadFileService = loadFileService;
             this.dataProcessorService = dataProcessorService;
             this.hydroDynamicStressService = hydroDynamicStressService;
+            this.cellAndStressService = cellAndStressService;
 
             this.cellNumber = 10.75;
             this.flowSpeed = 0.001111;
@@ -51,6 +57,8 @@ namespace AAiLProject.ViewModels
             this.dinamicViscosity = 0.001;
             this.distance = 0.25;
             this.radious = 45;
+
+            this.halfRateStressValue = new List<DataPoint>();
         }
 
         public bool IsDiagonal
@@ -165,6 +173,34 @@ namespace AAiLProject.ViewModels
             }
         }
 
+        public IList<DataPoint> MeanAndStressPlot
+        {
+            get
+            {
+                return this.meanAndStressPlot;
+            }
+
+            set
+            {
+                this.meanAndStressPlot = value;
+                this.NotifyOfPropertyChange(() => this.MeanAndStressPlot);
+            }
+        }
+
+        public IList<DataPoint> HalfRateStressValue
+        {
+            get
+            {
+                return this.halfRateStressValue;
+            }
+
+            set
+            {
+                this.halfRateStressValue = value;
+                this.NotifyOfPropertyChange(() => this.HalfRateStressValue);
+            }
+        }
+
         public double CellNumber
         {
             get
@@ -261,6 +297,35 @@ namespace AAiLProject.ViewModels
                                                                                                      this.DinamicViscosity,
                                                                                                      this.radious,
                                                                                                      this.Distance);
+        }
+
+        public void GetMeanAndStressFunction()
+        {
+            if (this.HydrodynamicStressPlot != null && this.MeanPlot != null)
+            {
+                this.MeanAndStressPlot = this.cellAndStressService.GetCellAndStressPoints(this.HydrodynamicStressPlot, this.MeanPlot);
+
+                int index = this.cellAndStressService.GetIndexOfHalfValue(this.MeanPlot);
+                double halfRateStressValue = this.HydrodynamicStressPlot[index].Y;
+                double halRateCellValue = this.MeanPlot[index].Y;
+
+                for (int i = 0; i < this.HydrodynamicStressPlot.Count; i++)
+                {
+                    if (this.HydrodynamicStressPlot[i].Y.Equals(halfRateStressValue))
+                    {
+                        this.HalfRateStressValue.Add(new DataPoint(this.HydrodynamicStressPlot[i].Y, this.MeanPlot[i].Y));
+                    }
+
+                    else
+                    {
+                        this.HalfRateStressValue.Add(new DataPoint(this.HydrodynamicStressPlot[i].Y, 0));
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Nie wczytano pliku. \n Wybierz przycisk WCZYTAJ i załaduj odpowiedni plik.", "ERROR", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
     }
 }

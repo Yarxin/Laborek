@@ -22,6 +22,8 @@ namespace AAiLProject.Views
         public MainView()
         {
             InitializeComponent();
+            this.FirstPlotStackPanel.Visibility = Visibility.Collapsed;
+            this.LastPlotStackPanel.Visibility = Visibility.Collapsed;
         }
 
         private void StackPanel_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
@@ -72,6 +74,18 @@ namespace AAiLProject.Views
             {
                 tbDistance.Text = null;
             }
+        }
+
+        private void GetMeanAndStressFunction_Click(object sender, RoutedEventArgs e)
+        {
+            this.LastPlotStackPanel.Visibility = Visibility.Visible;
+            this.FirstPlotStackPanel.Visibility = Visibility.Collapsed;
+        }
+
+        private void LoadFile_Click(object sender, RoutedEventArgs e)
+        {
+            this.FirstPlotStackPanel.Visibility = Visibility.Visible;
+            this.LastPlotStackPanel.Visibility = Visibility.Collapsed;
         }
     }
 }
