@@ -270,7 +270,9 @@
                     <Grid>
                         <oxy:Plot Grid.Row="0" Title="Liczba oderwanych komórek w funkcji naprężenia" HorizontalAlignment="Stretch" Height="730">
                             <oxy:Plot.Series>
-                                <oxy:LineSeries ItemsSource="{Binding MeanAndStressPlot}" Color="Purple" LineStyle="LongDash"/>
+                                <oxy:LineSeries ItemsSource="{Binding MeanAndStressLowerPlot}" Color="Red" LineStyle="Dash"/>
+                                <oxy:LineSeries ItemsSource="{Binding MeanAndStressUpperPlot}" Color="Red" LineStyle="Dash"/>
+                                <oxy:LineSeries ItemsSource="{Binding MeanAndStressPlot}" Color="Purple" LineStyle="Dot"/>
                                 <oxy:LineSeries ItemsSource="{Binding HalfRateStressValue}" Color="Yellow"/>
                             </oxy:Plot.Series>
                         </oxy:Plot>

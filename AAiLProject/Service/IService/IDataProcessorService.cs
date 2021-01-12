@@ -6,7 +6,7 @@ namespace AAiLProject.Service.IService
 {
     internal interface IDataProcessorService
     {
-        SimpleDataModel GetMeansAndStd(SimpleDataModel dataModel);
+        SimpleDataModel GetMeansAndStd(SimpleDataModel dataModel, bool isDiagonal = false);
 
         IList<DataPoint> GetMeanDataPoints(SimpleDataModel dataModel);
 

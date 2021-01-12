@@ -20,9 +20,9 @@ namespace AAiLProject.Service
             this.loadFiledService = loadFiledService;
         }
 
-        public SimpleDataModel GetMeansAndStd(SimpleDataModel dataModel)
+        public SimpleDataModel GetMeansAndStd(SimpleDataModel dataModel, bool isDiagonal = false)
         {
-            SimpleDataModel expandedDataModel = this.GetMeansAndStdInternal(dataModel);
+            SimpleDataModel expandedDataModel = this.GetMeansAndStdInternal(dataModel, isDiagonal);
             return expandedDataModel;
         }
 
@@ -137,7 +137,7 @@ namespace AAiLProject.Service
             return dataModel;
         }
 
-        private SimpleDataModel GetMeansAndStdInternal(SimpleDataModel dataModel)
+        private SimpleDataModel GetMeansAndStdInternal(SimpleDataModel dataModel, bool isDiagonal = false)
         {
             this.SplitDataInternal(dataModel);
 

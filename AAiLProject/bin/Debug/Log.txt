@@ -40101,3 +40101,1465 @@ Dodano punkty o współrzędnych: 3,91915257960385E-07 370
 Dodano punkty o współrzędnych: 3,8689070337115E-07 345,75
 Dodano punkty o współrzędnych: 3,81993352695565E-07 341,75
 Dodano punkty o współrzędnych: 3,77218435786871E-07 359,5
+Program start!
+Przygotowuję dane
+Ładuję dane z: C:\Users\Msi\OneDrive\Pulpit\Projekty Uczelnia\AAiL\dane\temat 4\Obliczenia 23 7.5 minuty.xlsx
+Ładuję plik Excel
+Ładowanie zakończone pomyślnie
+Konwertuję dane
+Przekonwertowano wiersz: 1
+ Horizontal: 313
+ Vertical: 279
+Przekonwertowano wiersz: 2
+ Horizontal: 287
+ Vertical: 204
+Przekonwertowano wiersz: 3
+ Horizontal: 275
+ Vertical: 216
+Przekonwertowano wiersz: 4
+ Horizontal: 263
+ Vertical: 238
+Przekonwertowano wiersz: 5
+ Horizontal: 311
+ Vertical: 286
+Przekonwertowano wiersz: 6
+ Horizontal: 263
+ Vertical: 207
+Przekonwertowano wiersz: 7
+ Horizontal: 228
+ Vertical: 193
+Przekonwertowano wiersz: 8
+ Horizontal: 238
+ Vertical: 201
+Przekonwertowano wiersz: 9
+ Horizontal: 267
+ Vertical: 233
+Przekonwertowano wiersz: 10
+ Horizontal: 253
+ Vertical: 231
+Przekonwertowano wiersz: 11
+ Horizontal: 257
+ Vertical: 192
+Przekonwertowano wiersz: 12
+ Horizontal: 253
+ Vertical: 171
+Przekonwertowano wiersz: 13
+ Horizontal: 242
+ Vertical: 213
+Przekonwertowano wiersz: 14
+ Horizontal: 281
+ Vertical: 160
+Przekonwertowano wiersz: 15
+ Horizontal: 214
+ Vertical: 177
+Przekonwertowano wiersz: 16
+ Horizontal: 211
+ Vertical: 172
+Przekonwertowano wiersz: 17
+ Horizontal: 247
+ Vertical: 177
+Przekonwertowano wiersz: 18
+ Horizontal: 226
+ Vertical: 171
+Przekonwertowano wiersz: 19
+ Horizontal: 158
+ Vertical: 102
+Przekonwertowano wiersz: 20
+ Horizontal: 124
+ Vertical: 102
+Przekonwertowano wiersz: 21
+ Horizontal: 130
+ Vertical: 112
+Przekonwertowano wiersz: 22
+ Horizontal: 139
+ Vertical: 101
+Przekonwertowano wiersz: 23
+ Horizontal: 125
+ Vertical: 114
+Przekonwertowano wiersz: 24
+ Horizontal: 92
+ Vertical: 88
+Przekonwertowano wiersz: 25
+ Horizontal: 120
+ Vertical: 87
+Przekonwertowano wiersz: 26
+ Horizontal: 147
+ Vertical: 67
+Przekonwertowano wiersz: 27
+ Horizontal: 180
+ Vertical: 54
+Przekonwertowano wiersz: 28
+ Horizontal: 219
+ Vertical: 47
+Przekonwertowano wiersz: 29
+ Horizontal: 195
+ Vertical: 46
+Przekonwertowano wiersz: 30
+ Horizontal: 210
+ Vertical: 29
+Przekonwertowano wiersz: 31
+ Horizontal: 204
+ Vertical: 26
+Przekonwertowano wiersz: 32
+ Horizontal: 200
+ Vertical: 25
+Przekonwertowano wiersz: 33
+ Horizontal: 220
+ Vertical: 45
+Przekonwertowano wiersz: 34
+ Horizontal: 200
+ Vertical: 40
+Przekonwertowano wiersz: 35
+ Horizontal: 211
+ Vertical: 40
+Przekonwertowano wiersz: 36
+ Horizontal: 152
+ Vertical: 31
+Przekonwertowano wiersz: 37
+ Horizontal: 166
+ Vertical: 24
+Przekonwertowano wiersz: 38
+ Horizontal: 157
+ Vertical: 23
+Przekonwertowano wiersz: 39
+ Horizontal: 130
+ Vertical: 14
+Przekonwertowano wiersz: 40
+ Horizontal: 148
+ Vertical: 31
+Przekonwertowano wiersz: 41
+ Horizontal: 99
+ Vertical: 33
+Przekonwertowano wiersz: 42
+ Horizontal: 77
+ Vertical: 27
+Przekonwertowano wiersz: 43
+ Horizontal: 35
+ Vertical: 15
+Przekonwertowano wiersz: 44
+ Horizontal: 30
+ Vertical: 8
+Przekonwertowano wiersz: 45
+ Horizontal: 26
+ Vertical: 13
+Przekonwertowano wiersz: 46
+ Horizontal: 32
+ Vertical: 9
+Przekonwertowano wiersz: 47
+ Horizontal: 29
+ Vertical: 9
+Przekonwertowano wiersz: 48
+ Horizontal: 24
+ Vertical: 7
+Przekonwertowano wiersz: 49
+ Horizontal: 38
+ Vertical: 12
+Przekonwertowano wiersz: 50
+ Horizontal: 38
+ Vertical: 12
+Przekonwertowano wiersz: 51
+ Horizontal: 65
+ Vertical: 4
+Przekonwertowano wiersz: 52
+ Horizontal: 59
+ Vertical: 4
+Przekonwertowano wiersz: 53
+ Horizontal: 35
+ Vertical: 6
+Przekonwertowano wiersz: 54
+ Horizontal: 14
+ Vertical: 5
+Przekonwertowano wiersz: 55
+ Horizontal: 17
+ Vertical: 7
+Przekonwertowano wiersz: 56
+ Horizontal: 12
+ Vertical: 7
+Przekonwertowano wiersz: 57
+ Horizontal: 16
+ Vertical: 9
+Przekonwertowano wiersz: 58
+ Horizontal: 11
+ Vertical: 18
+Przekonwertowano wiersz: 59
+ Horizontal: 9
+ Vertical: 8
+Przekonwertowano wiersz: 60
+ Horizontal: 11
+ Vertical: 4
+Przekonwertowano wiersz: 61
+ Horizontal: 8
+ Vertical: 5
+Przekonwertowano wiersz: 62
+ Horizontal: 9
+ Vertical: 1
+Przekonwertowano wiersz: 63
+ Horizontal: 11
+ Vertical: 8
+Przekonwertowano wiersz: 64
+ Horizontal: 9
+ Vertical: 11
+Przekonwertowano wiersz: 65
+ Horizontal: 11
+ Vertical: 17
+Przekonwertowano wiersz: 66
+ Horizontal: 6
+ Vertical: 5
+Przekonwertowano wiersz: 67
+ Horizontal: 7
+ Vertical: 5
+Przekonwertowano wiersz: 68
+ Horizontal: 8
+ Vertical: 6
+Przekonwertowano wiersz: 69
+ Horizontal: 3
+ Vertical: 6
+Przekonwertowano wiersz: 70
+ Horizontal: 4
+ Vertical: 4
+Przekonwertowano wiersz: 71
+ Horizontal: 12
+ Vertical: 5
+Przekonwertowano wiersz: 72
+ Horizontal: 10
+ Vertical: 5
+Przekonwertowano wiersz: 73
+ Horizontal: 8
+ Vertical: 3
+Przekonwertowano wiersz: 74
+ Horizontal: 12
+ Vertical: 2
+Przekonwertowano wiersz: 75
+ Horizontal: 6
+ Vertical: 7
+Przekonwertowano wiersz: 76
+ Horizontal: 8
+ Vertical: 6
+Przekonwertowano wiersz: 77
+ Horizontal: 6
+ Vertical: 4
+Przekonwertowano wiersz: 78
+ Horizontal: 10
+ Vertical: 6
+Przekonwertowano wiersz: 79
+ Horizontal: 13
+ Vertical: 11
+Przekonwertowano wiersz: 80
+ Horizontal: 7
+ Vertical: 4
+Przekonwertowano wiersz: 81
+ Horizontal: 5
+ Vertical: 3
+Przekonwertowano wiersz: 82
+ Horizontal: 5
+ Vertical: 3
+Przekonwertowano wiersz: 83
+ Horizontal: 8
+ Vertical: 3
+Przekonwertowano wiersz: 84
+ Horizontal: 8
+ Vertical: 10
+Przekonwertowano wiersz: 85
+ Horizontal: 7
+ Vertical: 7
+Przekonwertowano wiersz: 86
+ Horizontal: 4
+ Vertical: 7
+Przekonwertowano wiersz: 87
+ Horizontal: 13
+ Vertical: 9
+Przekonwertowano wiersz: 88
+ Horizontal: 6
+ Vertical: 15
+Przekonwertowano wiersz: 89
+ Horizontal: 7
+ Vertical: 14
+Przekonwertowano wiersz: 90
+ Horizontal: 5
+ Vertical: 8
+Przekonwertowano wiersz: 91
+ Horizontal: 4
+ Vertical: 11
+Przekonwertowano wiersz: 92
+ Horizontal: 5
+ Vertical: 6
+Przekonwertowano wiersz: 93
+ Horizontal: 4
+ Vertical: 5
+Przekonwertowano wiersz: 94
+ Horizontal: 10
+ Vertical: 6
+Przekonwertowano wiersz: 95
+ Horizontal: 11
+ Vertical: 11
+Przekonwertowano wiersz: 96
+ Horizontal: 17
+ Vertical: 8
+Przekonwertowano wiersz: 97
+ Horizontal: 7
+ Vertical: 5
+Przekonwertowano wiersz: 98
+ Horizontal: 5
+ Vertical: 5
+Przekonwertowano wiersz: 99
+ Horizontal: 17
+ Vertical: 7
+Przekonwertowano wiersz: 100
+ Horizontal: 13
+ Vertical: 6
+Przekonwertowano wiersz: 101
+ Horizontal: 9
+ Vertical: 6
+Przekonwertowano wiersz: 102
+ Horizontal: 8
+ Vertical: 8
+Przekonwertowano wiersz: 103
+ Horizontal: 10
+ Vertical: 5
+Przekonwertowano wiersz: 104
+ Horizontal: 13
+ Vertical: 7
+Przekonwertowano wiersz: 105
+ Horizontal: 15
+ Vertical: 6
+Przekonwertowano wiersz: 106
+ Horizontal: 15
+ Vertical: 11
+Przekonwertowano wiersz: 107
+ Horizontal: 18
+ Vertical: 9
+Przekonwertowano wiersz: 108
+ Horizontal: 18
+ Vertical: 6
+Przekonwertowano wiersz: 109
+ Horizontal: 16
+ Vertical: 2
+Przekonwertowano wiersz: 110
+ Horizontal: 25
+ Vertical: 10
+Przekonwertowano wiersz: 111
+ Horizontal: 22
+ Vertical: 11
+Przekonwertowano wiersz: 112
+ Horizontal: 11
+ Vertical: 25
+Przekonwertowano wiersz: 113
+ Horizontal: 12
+ Vertical: 57
+Przekonwertowano wiersz: 114
+ Horizontal: 22
+ Vertical: 79
+Przekonwertowano wiersz: 115
+ Horizontal: 24
+ Vertical: 85
+Przekonwertowano wiersz: 116
+ Horizontal: 25
+ Vertical: 77
+Przekonwertowano wiersz: 117
+ Horizontal: 33
+ Vertical: 104
+Przekonwertowano wiersz: 118
+ Horizontal: 34
+ Vertical: 92
+Przekonwertowano wiersz: 119
+ Horizontal: 38
+ Vertical: 56
+Przekonwertowano wiersz: 120
+ Horizontal: 23
+ Vertical: 75
+Przekonwertowano wiersz: 121
+ Horizontal: 24
+ Vertical: 68
+Przekonwertowano wiersz: 122
+ Horizontal: 25
+ Vertical: 84
+Przekonwertowano wiersz: 123
+ Horizontal: 44
+ Vertical: 82
+Przekonwertowano wiersz: 124
+ Horizontal: 41
+ Vertical: 88
+Przekonwertowano wiersz: 125
+ Horizontal: 36
+ Vertical: 103
+Przekonwertowano wiersz: 126
+ Horizontal: 30
+ Vertical: 115
+Przekonwertowano wiersz: 127
+ Horizontal: 46
+ Vertical: 95
+Przekonwertowano wiersz: 128
+ Horizontal: 53
+ Vertical: 71
+Przekonwertowano wiersz: 129
+ Horizontal: 47
+ Vertical: 89
+Przekonwertowano wiersz: 130
+ Horizontal: 49
+ Vertical: 93
+Przekonwertowano wiersz: 131
+ Horizontal: 44
+ Vertical: 99
+Przekonwertowano wiersz: 132
+ Horizontal: 53
+ Vertical: 132
+Przekonwertowano wiersz: 133
+ Horizontal: 65
+ Vertical: 209
+Przekonwertowano wiersz: 134
+ Horizontal: 62
+ Vertical: 191
+Przekonwertowano wiersz: 135
+ Horizontal: 99
+ Vertical: 203
+Przekonwertowano wiersz: 136
+ Horizontal: 97
+ Vertical: 214
+Przekonwertowano wiersz: 137
+ Horizontal: 100
+ Vertical: 220
+Przekonwertowano wiersz: 138
+ Horizontal: 109
+ Vertical: 231
+Przekonwertowano wiersz: 139
+ Horizontal: 105
+ Vertical: 207
+Przekonwertowano wiersz: 140
+ Horizontal: 119
+ Vertical: 199
+Przekonwertowano wiersz: 141
+ Horizontal: 152
+ Vertical: 171
+Przekonwertowano wiersz: 142
+ Horizontal: 192
+ Vertical: 209
+Przekonwertowano wiersz: 143
+ Horizontal: 195
+ Vertical: 170
+Przekonwertowano wiersz: 144
+ Horizontal: 204
+ Vertical: 146
+Przekonwertowano wiersz: 145
+ Horizontal: 272
+ Vertical: 260
+Przekonwertowano wiersz: 146
+ Horizontal: 256
+ Vertical: 179
+Przekonwertowano wiersz: 147
+ Horizontal: 246
+ Vertical: 194
+Przekonwertowano wiersz: 148
+ Horizontal: 218
+ Vertical: 216
+Przekonwertowano wiersz: 149
+ Horizontal: 292
+ Vertical: 243
+Przekonwertowano wiersz: 150
+ Horizontal: 282
+ Vertical: 256
+Przekonwertowano wiersz: 151
+ Horizontal: 286
+ Vertical: 242
+Przekonwertowano wiersz: 152
+ Horizontal: 276
+ Vertical: 279
+Przekonwertowano wiersz: 153
+ Horizontal: 288
+ Vertical: 344
+Przekonwertowano wiersz: 154
+ Horizontal: 307
+ Vertical: 276
+Przekonwertowano wiersz: 155
+ Horizontal: 265
+ Vertical: 269
+Przekonwertowano wiersz: 156
+ Horizontal: 252
+ Vertical: 263
+Przekonwertowano wiersz: 157
+ Horizontal: 309
+ Vertical: 298
+Przekonwertowano wiersz: 158
+ Horizontal: 286
+ Vertical: 242
+Przekonwertowano wiersz: 159
+ Horizontal: 292
+ Vertical: 208
+Przekonwertowano wiersz: 160
+ Horizontal: 266
+ Vertical: 183
+Przygotowuję dane
+Szybkość przepływu: 0,001111
+Lepkość dynamiczna: 0,001
+Promień w mm: 45
+Odległość: 0,25
+Numer próbka: 0Naprężenie: 3,01774748629497E-05
+Numer próbka: 1Naprężenie: 1,50887374314748E-05
+Numer próbka: 2Naprężenie: 1,00591582876499E-05
+Numer próbka: 3Naprężenie: 7,54436871573742E-06
+Numer próbka: 4Naprężenie: 6,03549497258993E-06
+Numer próbka: 5Naprężenie: 5,02957914382495E-06
+Numer próbka: 6Naprężenie: 4,31106783756424E-06
+Numer próbka: 7Naprężenie: 3,77218435786871E-06
+Numer próbka: 8Naprężenie: 3,35305276254996E-06
+Numer próbka: 9Naprężenie: 3,01774748629497E-06
+Numer próbka: 10Naprężenie: 2,7434068057227E-06
+Numer próbka: 11Naprężenie: 2,51478957191247E-06
+Numer próbka: 12Naprężenie: 2,3213442202269E-06
+Numer próbka: 13Naprężenie: 2,15553391878212E-06
+Numer próbka: 14Naprężenie: 2,01183165752998E-06
+Numer próbka: 15Naprężenie: 1,88609217893435E-06
+Numer próbka: 16Naprężenie: 1,77514558017351E-06
+Numer próbka: 17Naprężenie: 1,67652638127498E-06
+Numer próbka: 18Naprężenie: 1,58828815068156E-06
+Numer próbka: 19Naprężenie: 1,50887374314748E-06
+Numer próbka: 20Naprężenie: 1,43702261252141E-06
+Numer próbka: 21Naprężenie: 1,37170340286135E-06
+Numer próbka: 22Naprężenie: 1,31206412447607E-06
+Numer próbka: 23Naprężenie: 1,25739478595624E-06
+Numer próbka: 24Naprężenie: 1,20709899451799E-06
+Numer próbka: 25Naprężenie: 1,16067211011345E-06
+Numer próbka: 26Naprężenie: 1,11768425418332E-06
+Numer próbka: 27Naprężenie: 1,07776695939106E-06
+Numer próbka: 28Naprężenie: 1,04060258148102E-06
+Numer próbka: 29Naprężenie: 1,00591582876499E-06
+Numer próbka: 30Naprężenie: 9,73466931062893E-07
+Numer próbka: 31Naprężenie: 9,43046089467177E-07
+Numer próbka: 32Naprężenie: 9,14468935240899E-07
+Numer próbka: 33Naprężenie: 8,87572790086755E-07
+Numer próbka: 34Naprężenie: 8,62213567512848E-07
+Numer próbka: 35Naprężenie: 8,38263190637491E-07
+Numer próbka: 36Naprężenie: 8,15607428728369E-07
+Numer próbka: 37Naprężenie: 7,94144075340781E-07
+Numer próbka: 38Naprężenie: 7,73781406742299E-07
+Numer próbka: 39Naprężenie: 7,54436871573742E-07
+Numer próbka: 40Naprężenie: 7,36035972267065E-07
+Numer próbka: 41Naprężenie: 7,18511306260706E-07
+Numer próbka: 42Naprężenie: 7,01801740998829E-07
+Numer próbka: 43Naprężenie: 6,85851701430674E-07
+Numer próbka: 44Naprężenie: 6,70610552509993E-07
+Numer próbka: 45Naprężenie: 6,56032062238036E-07
+Numer próbka: 46Naprężenie: 6,42073933254248E-07
+Numer próbka: 47Naprężenie: 6,28697392978118E-07
+Numer próbka: 48Naprężenie: 6,15866833937748E-07
+Numer próbka: 49Naprężenie: 6,03549497258993E-07
+Numer próbka: 50Naprężenie: 5,9171519339117E-07
+Numer próbka: 51Naprężenie: 5,80336055056724E-07
+Numer próbka: 52Naprężenie: 5,69386318168862E-07
+Numer próbka: 53Naprężenie: 5,58842127091661E-07
+Numer próbka: 54Naprężenie: 5,48681361144539E-07
+Numer próbka: 55Naprężenie: 5,3888347969553E-07
+Numer próbka: 56Naprężenie: 5,2942938356052E-07
+Numer próbka: 57Naprężenie: 5,20301290740512E-07
+Numer próbka: 58Naprężenie: 5,11482624795757E-07
+Numer próbka: 59Naprężenie: 5,02957914382495E-07
+Numer próbka: 60Naprężenie: 4,94712702671306E-07
+Numer próbka: 61Naprężenie: 4,86733465531446E-07
+Numer próbka: 62Naprężenie: 4,79007537507138E-07
+Numer próbka: 63Naprężenie: 4,71523044733589E-07
+Numer próbka: 64Naprężenie: 4,6426884404538E-07
+Numer próbka: 65Naprężenie: 4,5723446762045E-07
+Numer próbka: 66Naprężenie: 4,50410072581338E-07
+Numer próbka: 67Naprężenie: 4,43786395043377E-07
+Numer próbka: 68Naprężenie: 4,37354708158691E-07
+Numer próbka: 69Naprężenie: 4,31106783756424E-07
+Numer próbka: 70Naprężenie: 4,25034857224643E-07
+Numer próbka: 71Naprężenie: 4,19131595318745E-07
+Numer próbka: 72Naprężenie: 4,13390066615749E-07
+Numer próbka: 73Naprężenie: 4,07803714364185E-07
+Numer próbka: 74Naprężenie: 4,02366331505996E-07
+Numer próbka: 75Naprężenie: 3,9707203767039E-07
+Numer próbka: 76Naprężenie: 3,91915257960385E-07
+Numer próbka: 77Naprężenie: 3,8689070337115E-07
+Numer próbka: 78Naprężenie: 3,81993352695565E-07
+Numer próbka: 79Naprężenie: 3,77218435786871E-07
+Dodano punkty o współrzędnych: 3,01774748629497E-05 4,75
+Dodano punkty o współrzędnych: 1,50887374314748E-05 8
+Dodano punkty o współrzędnych: 1,00591582876499E-05 6,75
+Dodano punkty o współrzędnych: 7,54436871573742E-06 7
+Dodano punkty o współrzędnych: 6,03549497258993E-06 7
+Dodano punkty o współrzędnych: 5,02957914382495E-06 6
+Dodano punkty o współrzędnych: 4,31106783756424E-06 9
+Dodano punkty o współrzędnych: 3,77218435786871E-06 8
+Dodano punkty o współrzędnych: 3,35305276254996E-06 9
+Dodano punkty o współrzędnych: 3,01774748629497E-06 7,5
+Dodano punkty o współrzędnych: 2,7434068057227E-06 5,75
+Dodano punkty o współrzędnych: 2,51478957191247E-06 5
+Dodano punkty o współrzędnych: 2,3213442202269E-06 5,75
+Dodano punkty o współrzędnych: 2,15553391878212E-06 7
+Dodano punkty o współrzędnych: 2,01183165752998E-06 8,25
+Dodano punkty o współrzędnych: 1,88609217893435E-06 13,25
+Dodano punkty o współrzędnych: 1,77514558017351E-06 8
+Dodano punkty o współrzędnych: 1,67652638127498E-06 7,25
+Dodano punkty o współrzędnych: 1,58828815068156E-06 8,5
+Dodano punkty o współrzędnych: 1,50887374314748E-06 8
+Dodano punkty o współrzędnych: 1,43702261252141E-06 7,5
+Dodano punkty o współrzędnych: 1,37170340286135E-06 8,25
+Dodano punkty o współrzędnych: 1,31206412447607E-06 11
+Dodano punkty o współrzędnych: 1,25739478595624E-06 11,25
+Dodano punkty o współrzędnych: 1,20709899451799E-06 10
+Dodano punkty o współrzędnych: 1,16067211011345E-06 12,5
+Dodano punkty o współrzędnych: 1,11768425418332E-06 11,5
+Dodano punkty o współrzędnych: 1,07776695939106E-06 16,25
+Dodano punkty o współrzędnych: 1,04060258148102E-06 20,25
+Dodano punkty o współrzędnych: 1,00591582876499E-06 26
+Dodano punkty o współrzędnych: 9,73466931062893E-07 20,75
+Dodano punkty o współrzędnych: 9,43046089467177E-07 21,5
+Dodano punkty o współrzędnych: 9,14468935240899E-07 25
+Dodano punkty o współrzędnych: 8,87572790086755E-07 34,75
+Dodano punkty o współrzędnych: 8,62213567512848E-07 37,5
+Dodano punkty o współrzędnych: 8,38263190637491E-07 35,25
+Dodano punkty o współrzędnych: 8,15607428728369E-07 43,75
+Dodano punkty o współrzędnych: 7,94144075340781E-07 44
+Dodano punkty o współrzędnych: 7,73781406742299E-07 49,5
+Dodano punkty o współrzędnych: 7,54436871573742E-07 57,5
+Dodano punkty o współrzędnych: 7,36035972267065E-07 67,75
+Dodano punkty o współrzędnych: 7,18511306260706E-07 63,25
+Dodano punkty o współrzędnych: 7,01801740998829E-07 76,5
+Dodano punkty o współrzędnych: 6,85851701430674E-07 79,75
+Dodano punkty o współrzędnych: 6,70610552509993E-07 80,5
+Dodano punkty o współrzędnych: 6,56032062238036E-07 99
+Dodano punkty o współrzędnych: 6,42073933254248E-07 95,25
+Dodano punkty o współrzędnych: 6,28697392978118E-07 97,25
+Dodano punkty o współrzędnych: 6,15866833937748E-07 90,25
+Dodano punkty o współrzędnych: 6,03549497258993E-07 93
+Dodano punkty o współrzędnych: 5,9171519339117E-07 95,5
+Dodano punkty o współrzędnych: 5,80336055056724E-07 106,5
+Dodano punkty o współrzędnych: 5,69386318168862E-07 135
+Dodano punkty o współrzędnych: 5,58842127091661E-07 121,75
+Dodano punkty o współrzędnych: 5,48681361144539E-07 129
+Dodano punkty o współrzędnych: 5,3888347969553E-07 129,5
+Dodano punkty o współrzędnych: 5,2942938356052E-07 125
+Dodano punkty o współrzędnych: 5,20301290740512E-07 144,75
+Dodano punkty o współrzędnych: 5,11482624795757E-07 138
+Dodano punkty o współrzędnych: 5,02957914382495E-07 140
+Dodano punkty o współrzędnych: 4,94712702671306E-07 137,25
+Dodano punkty o współrzędnych: 4,86733465531446E-07 165,25
+Dodano punkty o współrzędnych: 4,79007537507138E-07 190,5
+Dodano punkty o współrzędnych: 4,71523044733589E-07 193,5
+Dodano punkty o współrzędnych: 4,6426884404538E-07 228,75
+Dodano punkty o współrzędnych: 4,5723446762045E-07 206,5
+Dodano punkty o współrzędnych: 4,50410072581338E-07 220,25
+Dodano punkty o współrzędnych: 4,43786395043377E-07 222,25
+Dodano punkty o współrzędnych: 4,37354708158691E-07 239,75
+Dodano punkty o współrzędnych: 4,31106783756424E-07 246,75
+Dodano punkty o współrzędnych: 4,25034857224643E-07 253
+Dodano punkty o współrzędnych: 4,19131595318745E-07 263,75
+Dodano punkty o współrzędnych: 4,13390066615749E-07 267,75
+Dodano punkty o współrzędnych: 4,07803714364185E-07 251
+Dodano punkty o współrzędnych: 4,02366331505996E-07 251
+Dodano punkty o współrzędnych: 3,9707203767039E-07 278
+Dodano punkty o współrzędnych: 3,91915257960385E-07 277
+Dodano punkty o współrzędnych: 3,8689070337115E-07 254,75
+Dodano punkty o współrzędnych: 3,81993352695565E-07 247,75
+Dodano punkty o współrzędnych: 3,77218435786871E-07 260,25
+Program start!
+Przygotowuję dane
+Ładuję dane z: C:\Users\Msi\OneDrive\Pulpit\Projekty Uczelnia\AAiL\dane\temat 4\Obliczenia 09 2.5 minuty.xlsx
+Ładuję plik Excel
+Ładowanie zakończone pomyślnie
+Konwertuję dane
+Przekonwertowano wiersz: 1
+ Horizontal: 54
+ Vertical: 111
+Przekonwertowano wiersz: 2
+ Horizontal: 78
+ Vertical: 107
+Przekonwertowano wiersz: 3
+ Horizontal: 74
+ Vertical: 102
+Przekonwertowano wiersz: 4
+ Horizontal: 91
+ Vertical: 128
+Przekonwertowano wiersz: 5
+ Horizontal: 72
+ Vertical: 116
+Przekonwertowano wiersz: 6
+ Horizontal: 77
+ Vertical: 119
+Przekonwertowano wiersz: 7
+ Horizontal: 96
+ Vertical: 115
+Przekonwertowano wiersz: 8
+ Horizontal: 90
+ Vertical: 112
+Przekonwertowano wiersz: 9
+ Horizontal: 83
+ Vertical: 119
+Przekonwertowano wiersz: 10
+ Horizontal: 88
+ Vertical: 92
+Przekonwertowano wiersz: 11
+ Horizontal: 122
+ Vertical: 82
+Przekonwertowano wiersz: 12
+ Horizontal: 138
+ Vertical: 81
+Przekonwertowano wiersz: 13
+ Horizontal: 93
+ Vertical: 116
+Przekonwertowano wiersz: 14
+ Horizontal: 89
+ Vertical: 74
+Przekonwertowano wiersz: 15
+ Horizontal: 75
+ Vertical: 81
+Przekonwertowano wiersz: 16
+ Horizontal: 92
+ Vertical: 77
+Przekonwertowano wiersz: 17
+ Horizontal: 64
+ Vertical: 61
+Przekonwertowano wiersz: 18
+ Horizontal: 78
+ Vertical: 53
+Przekonwertowano wiersz: 19
+ Horizontal: 103
+ Vertical: 56
+Przekonwertowano wiersz: 20
+ Horizontal: 96
+ Vertical: 49
+Przekonwertowano wiersz: 21
+ Horizontal: 83
+ Vertical: 31
+Przekonwertowano wiersz: 22
+ Horizontal: 74
+ Vertical: 38
+Przekonwertowano wiersz: 23
+ Horizontal: 85
+ Vertical: 25
+Przekonwertowano wiersz: 24
+ Horizontal: 67
+ Vertical: 42
+Przekonwertowano wiersz: 25
+ Horizontal: 72
+ Vertical: 24
+Przekonwertowano wiersz: 26
+ Horizontal: 63
+ Vertical: 19
+Przekonwertowano wiersz: 27
+ Horizontal: 66
+ Vertical: 16
+Przekonwertowano wiersz: 28
+ Horizontal: 65
+ Vertical: 32
+Przekonwertowano wiersz: 29
+ Horizontal: 58
+ Vertical: 40
+Przekonwertowano wiersz: 30
+ Horizontal: 49
+ Vertical: 52
+Przekonwertowano wiersz: 31
+ Horizontal: 53
+ Vertical: 39
+Przekonwertowano wiersz: 32
+ Horizontal: 45
+ Vertical: 32
+Przekonwertowano wiersz: 33
+ Horizontal: 44
+ Vertical: 38
+Przekonwertowano wiersz: 34
+ Horizontal: 42
+ Vertical: 39
+Przekonwertowano wiersz: 35
+ Horizontal: 58
+ Vertical: 31
+Przekonwertowano wiersz: 36
+ Horizontal: 55
+ Vertical: 17
+Przekonwertowano wiersz: 37
+ Horizontal: 45
+ Vertical: 21
+Przekonwertowano wiersz: 38
+ Horizontal: 53
+ Vertical: 33
+Przekonwertowano wiersz: 39
+ Horizontal: 76
+ Vertical: 24
+Przekonwertowano wiersz: 40
+ Horizontal: 69
+ Vertical: 18
+Przekonwertowano wiersz: 41
+ Horizontal: 52
+ Vertical: 12
+Przekonwertowano wiersz: 42
+ Horizontal: 48
+ Vertical: 12
+Przekonwertowano wiersz: 43
+ Horizontal: 39
+ Vertical: 9
+Przekonwertowano wiersz: 44
+ Horizontal: 39
+ Vertical: 6
+Przekonwertowano wiersz: 45
+ Horizontal: 29
+ Vertical: 3
+Przekonwertowano wiersz: 46
+ Horizontal: 39
+ Vertical: 9
+Przekonwertowano wiersz: 47
+ Horizontal: 32
+ Vertical: 11
+Przekonwertowano wiersz: 48
+ Horizontal: 27
+ Vertical: 15
+Przekonwertowano wiersz: 49
+ Horizontal: 31
+ Vertical: 8
+Przekonwertowano wiersz: 50
+ Horizontal: 38
+ Vertical: 10
+Przekonwertowano wiersz: 51
+ Horizontal: 35
+ Vertical: 8
+Przekonwertowano wiersz: 52
+ Horizontal: 19
+ Vertical: 8
+Przekonwertowano wiersz: 53
+ Horizontal: 23
+ Vertical: 6
+Przekonwertowano wiersz: 54
+ Horizontal: 22
+ Vertical: 1
+Przekonwertowano wiersz: 55
+ Horizontal: 28
+ Vertical: 8
+Przekonwertowano wiersz: 56
+ Horizontal: 21
+ Vertical: 7
+Przekonwertowano wiersz: 57
+ Horizontal: 15
+ Vertical: 10
+Przekonwertowano wiersz: 58
+ Horizontal: 15
+ Vertical: 4
+Przekonwertowano wiersz: 59
+ Horizontal: 13
+ Vertical: 11
+Przekonwertowano wiersz: 60
+ Horizontal: 24
+ Vertical: 13
+Przekonwertowano wiersz: 61
+ Horizontal: 11
+ Vertical: 6
+Przekonwertowano wiersz: 62
+ Horizontal: 16
+ Vertical: 12
+Przekonwertowano wiersz: 63
+ Horizontal: 12
+ Vertical: 14
+Przekonwertowano wiersz: 64
+ Horizontal: 22
+ Vertical: 5
+Przekonwertowano wiersz: 65
+ Horizontal: 13
+ Vertical: 7
+Przekonwertowano wiersz: 66
+ Horizontal: 13
+ Vertical: 5
+Przekonwertowano wiersz: 67
+ Horizontal: 36
+ Vertical: 7
+Przekonwertowano wiersz: 68
+ Horizontal: 10
+ Vertical: 13
+Przekonwertowano wiersz: 69
+ Horizontal: 11
+ Vertical: 15
+Przekonwertowano wiersz: 70
+ Horizontal: 22
+ Vertical: 12
+Przekonwertowano wiersz: 71
+ Horizontal: 19
+ Vertical: 24
+Przekonwertowano wiersz: 72
+ Horizontal: 14
+ Vertical: 20
+Przekonwertowano wiersz: 73
+ Horizontal: 9
+ Vertical: 7
+Przekonwertowano wiersz: 74
+ Horizontal: 13
+ Vertical: 5
+Przekonwertowano wiersz: 75
+ Horizontal: 15
+ Vertical: 6
+Przekonwertowano wiersz: 76
+ Horizontal: 11
+ Vertical: 12
+Przekonwertowano wiersz: 77
+ Horizontal: 16
+ Vertical: 7
+Przekonwertowano wiersz: 78
+ Horizontal: 12
+ Vertical: 6
+Przekonwertowano wiersz: 79
+ Horizontal: 24
+ Vertical: 12
+Przekonwertowano wiersz: 80
+ Horizontal: 22
+ Vertical: 7
+Przekonwertowano wiersz: 81
+ Horizontal: 8
+ Vertical: 6
+Przekonwertowano wiersz: 82
+ Horizontal: 12
+ Vertical: 13
+Przekonwertowano wiersz: 83
+ Horizontal: 23
+ Vertical: 17
+Przekonwertowano wiersz: 84
+ Horizontal: 17
+ Vertical: 12
+Przekonwertowano wiersz: 85
+ Horizontal: 4
+ Vertical: 5
+Przekonwertowano wiersz: 86
+ Horizontal: 13
+ Vertical: 13
+Przekonwertowano wiersz: 87
+ Horizontal: 19
+ Vertical: 6
+Przekonwertowano wiersz: 88
+ Horizontal: 11
+ Vertical: 11
+Przekonwertowano wiersz: 89
+ Horizontal: 11
+ Vertical: 5
+Przekonwertowano wiersz: 90
+ Horizontal: 5
+ Vertical: 4
+Przekonwertowano wiersz: 91
+ Horizontal: 30
+ Vertical: 10
+Przekonwertowano wiersz: 92
+ Horizontal: 7
+ Vertical: 7
+Przekonwertowano wiersz: 93
+ Horizontal: 21
+ Vertical: 9
+Przekonwertowano wiersz: 94
+ Horizontal: 25
+ Vertical: 5
+Przekonwertowano wiersz: 95
+ Horizontal: 20
+ Vertical: 9
+Przekonwertowano wiersz: 96
+ Horizontal: 8
+ Vertical: 15
+Przekonwertowano wiersz: 97
+ Horizontal: 7
+ Vertical: 3
+Przekonwertowano wiersz: 98
+ Horizontal: 2
+ Vertical: 6
+Przekonwertowano wiersz: 99
+ Horizontal: 8
+ Vertical: 7
+Przekonwertowano wiersz: 100
+ Horizontal: 9
+ Vertical: 12
+Przekonwertowano wiersz: 101
+ Horizontal: 10
+ Vertical: 8
+Przekonwertowano wiersz: 102
+ Horizontal: 6
+ Vertical: 8
+Przekonwertowano wiersz: 103
+ Horizontal: 8
+ Vertical: 5
+Przekonwertowano wiersz: 104
+ Horizontal: 10
+ Vertical: 11
+Przekonwertowano wiersz: 105
+ Horizontal: 12
+ Vertical: 11
+Przekonwertowano wiersz: 106
+ Horizontal: 12
+ Vertical: 15
+Przekonwertowano wiersz: 107
+ Horizontal: 12
+ Vertical: 15
+Przekonwertowano wiersz: 108
+ Horizontal: 23
+ Vertical: 12
+Przekonwertowano wiersz: 109
+ Horizontal: 13
+ Vertical: 23
+Przekonwertowano wiersz: 110
+ Horizontal: 13
+ Vertical: 20
+Przekonwertowano wiersz: 111
+ Horizontal: 8
+ Vertical: 19
+Przekonwertowano wiersz: 112
+ Horizontal: 28
+ Vertical: 21
+Przekonwertowano wiersz: 113
+ Horizontal: 25
+ Vertical: 41
+Przekonwertowano wiersz: 114
+ Horizontal: 22
+ Vertical: 38
+Przekonwertowano wiersz: 115
+ Horizontal: 15
+ Vertical: 44
+Przekonwertowano wiersz: 116
+ Horizontal: 8
+ Vertical: 38
+Przekonwertowano wiersz: 117
+ Horizontal: 9
+ Vertical: 33
+Przekonwertowano wiersz: 118
+ Horizontal: 19
+ Vertical: 44
+Przekonwertowano wiersz: 119
+ Horizontal: 26
+ Vertical: 63
+Przekonwertowano wiersz: 120
+ Horizontal: 37
+ Vertical: 40
+Przekonwertowano wiersz: 121
+ Horizontal: 58
+ Vertical: 67
+Przekonwertowano wiersz: 122
+ Horizontal: 44
+ Vertical: 47
+Przekonwertowano wiersz: 123
+ Horizontal: 28
+ Vertical: 42
+Przekonwertowano wiersz: 124
+ Horizontal: 54
+ Vertical: 43
+Przekonwertowano wiersz: 125
+ Horizontal: 41
+ Vertical: 48
+Przekonwertowano wiersz: 126
+ Horizontal: 46
+ Vertical: 68
+Przekonwertowano wiersz: 127
+ Horizontal: 84
+ Vertical: 78
+Przekonwertowano wiersz: 128
+ Horizontal: 74
+ Vertical: 68
+Przekonwertowano wiersz: 129
+ Horizontal: 97
+ Vertical: 94
+Przekonwertowano wiersz: 130
+ Horizontal: 95
+ Vertical: 110
+Przekonwertowano wiersz: 131
+ Horizontal: 97
+ Vertical: 98
+Przekonwertowano wiersz: 132
+ Horizontal: 99
+ Vertical: 95
+Przekonwertowano wiersz: 133
+ Horizontal: 104
+ Vertical: 102
+Przekonwertowano wiersz: 134
+ Horizontal: 74
+ Vertical: 90
+Przekonwertowano wiersz: 135
+ Horizontal: 97
+ Vertical: 96
+Przekonwertowano wiersz: 136
+ Horizontal: 116
+ Vertical: 97
+Przekonwertowano wiersz: 137
+ Horizontal: 125
+ Vertical: 99
+Przekonwertowano wiersz: 138
+ Horizontal: 145
+ Vertical: 99
+Przekonwertowano wiersz: 139
+ Horizontal: 126
+ Vertical: 101
+Przekonwertowano wiersz: 140
+ Horizontal: 124
+ Vertical: 107
+Przekonwertowano wiersz: 141
+ Horizontal: 109
+ Vertical: 123
+Przekonwertowano wiersz: 142
+ Horizontal: 104
+ Vertical: 94
+Przekonwertowano wiersz: 143
+ Horizontal: 119
+ Vertical: 120
+Przekonwertowano wiersz: 144
+ Horizontal: 112
+ Vertical: 127
+Przekonwertowano wiersz: 145
+ Horizontal: 93
+ Vertical: 132
+Przekonwertowano wiersz: 146
+ Horizontal: 101
+ Vertical: 106
+Przekonwertowano wiersz: 147
+ Horizontal: 115
+ Vertical: 103
+Przekonwertowano wiersz: 148
+ Horizontal: 119
+ Vertical: 121
+Przekonwertowano wiersz: 149
+ Horizontal: 136
+ Vertical: 112
+Przekonwertowano wiersz: 150
+ Horizontal: 136
+ Vertical: 130
+Przekonwertowano wiersz: 151
+ Horizontal: 140
+ Vertical: 130
+Przekonwertowano wiersz: 152
+ Horizontal: 137
+ Vertical: 126
+Przekonwertowano wiersz: 153
+ Horizontal: 131
+ Vertical: 134
+Przekonwertowano wiersz: 154
+ Horizontal: 155
+ Vertical: 133
+Przekonwertowano wiersz: 155
+ Horizontal: 131
+ Vertical: 115
+Przekonwertowano wiersz: 156
+ Horizontal: 132
+ Vertical: 104
+Przekonwertowano wiersz: 157
+ Horizontal: 129
+ Vertical: 138
+Przekonwertowano wiersz: 158
+ Horizontal: 143
+ Vertical: 109
+Przekonwertowano wiersz: 159
+ Horizontal: 135
+ Vertical: 126
+Przekonwertowano wiersz: 160
+ Horizontal: 153
+ Vertical: 125
+Przygotowuję dane
+Szybkość przepływu: 0,001111
+Lepkość dynamiczna: 0,001
+Promień w mm: 45
+Odległość: 0,25
+Numer próbka: 0Naprężenie: 3,01774748629497E-05
+Numer próbka: 1Naprężenie: 1,50887374314748E-05
+Numer próbka: 2Naprężenie: 1,00591582876499E-05
+Numer próbka: 3Naprężenie: 7,54436871573742E-06
+Numer próbka: 4Naprężenie: 6,03549497258993E-06
+Numer próbka: 5Naprężenie: 5,02957914382495E-06
+Numer próbka: 6Naprężenie: 4,31106783756424E-06
+Numer próbka: 7Naprężenie: 3,77218435786871E-06
+Numer próbka: 8Naprężenie: 3,35305276254996E-06
+Numer próbka: 9Naprężenie: 3,01774748629497E-06
+Numer próbka: 10Naprężenie: 2,7434068057227E-06
+Numer próbka: 11Naprężenie: 2,51478957191247E-06
+Numer próbka: 12Naprężenie: 2,3213442202269E-06
+Numer próbka: 13Naprężenie: 2,15553391878212E-06
+Numer próbka: 14Naprężenie: 2,01183165752998E-06
+Numer próbka: 15Naprężenie: 1,88609217893435E-06
+Numer próbka: 16Naprężenie: 1,77514558017351E-06
+Numer próbka: 17Naprężenie: 1,67652638127498E-06
+Numer próbka: 18Naprężenie: 1,58828815068156E-06
+Numer próbka: 19Naprężenie: 1,50887374314748E-06
+Numer próbka: 20Naprężenie: 1,43702261252141E-06
+Numer próbka: 21Naprężenie: 1,37170340286135E-06
+Numer próbka: 22Naprężenie: 1,31206412447607E-06
+Numer próbka: 23Naprężenie: 1,25739478595624E-06
+Numer próbka: 24Naprężenie: 1,20709899451799E-06
+Numer próbka: 25Naprężenie: 1,16067211011345E-06
+Numer próbka: 26Naprężenie: 1,11768425418332E-06
+Numer próbka: 27Naprężenie: 1,07776695939106E-06
+Numer próbka: 28Naprężenie: 1,04060258148102E-06
+Numer próbka: 29Naprężenie: 1,00591582876499E-06
+Numer próbka: 30Naprężenie: 9,73466931062893E-07
+Numer próbka: 31Naprężenie: 9,43046089467177E-07
+Numer próbka: 32Naprężenie: 9,14468935240899E-07
+Numer próbka: 33Naprężenie: 8,87572790086755E-07
+Numer próbka: 34Naprężenie: 8,62213567512848E-07
+Numer próbka: 35Naprężenie: 8,38263190637491E-07
+Numer próbka: 36Naprężenie: 8,15607428728369E-07
+Numer próbka: 37Naprężenie: 7,94144075340781E-07
+Numer próbka: 38Naprężenie: 7,73781406742299E-07
+Numer próbka: 39Naprężenie: 7,54436871573742E-07
+Numer próbka: 40Naprężenie: 7,36035972267065E-07
+Numer próbka: 41Naprężenie: 7,18511306260706E-07
+Numer próbka: 42Naprężenie: 7,01801740998829E-07
+Numer próbka: 43Naprężenie: 6,85851701430674E-07
+Numer próbka: 44Naprężenie: 6,70610552509993E-07
+Numer próbka: 45Naprężenie: 6,56032062238036E-07
+Numer próbka: 46Naprężenie: 6,42073933254248E-07
+Numer próbka: 47Naprężenie: 6,28697392978118E-07
+Numer próbka: 48Naprężenie: 6,15866833937748E-07
+Numer próbka: 49Naprężenie: 6,03549497258993E-07
+Numer próbka: 50Naprężenie: 5,9171519339117E-07
+Numer próbka: 51Naprężenie: 5,80336055056724E-07
+Numer próbka: 52Naprężenie: 5,69386318168862E-07
+Numer próbka: 53Naprężenie: 5,58842127091661E-07
+Numer próbka: 54Naprężenie: 5,48681361144539E-07
+Numer próbka: 55Naprężenie: 5,3888347969553E-07
+Numer próbka: 56Naprężenie: 5,2942938356052E-07
+Numer próbka: 57Naprężenie: 5,20301290740512E-07
+Numer próbka: 58Naprężenie: 5,11482624795757E-07
+Numer próbka: 59Naprężenie: 5,02957914382495E-07
+Numer próbka: 60Naprężenie: 4,94712702671306E-07
+Numer próbka: 61Naprężenie: 4,86733465531446E-07
+Numer próbka: 62Naprężenie: 4,79007537507138E-07
+Numer próbka: 63Naprężenie: 4,71523044733589E-07
+Numer próbka: 64Naprężenie: 4,6426884404538E-07
+Numer próbka: 65Naprężenie: 4,5723446762045E-07
+Numer próbka: 66Naprężenie: 4,50410072581338E-07
+Numer próbka: 67Naprężenie: 4,43786395043377E-07
+Numer próbka: 68Naprężenie: 4,37354708158691E-07
+Numer próbka: 69Naprężenie: 4,31106783756424E-07
+Numer próbka: 70Naprężenie: 4,25034857224643E-07
+Numer próbka: 71Naprężenie: 4,19131595318745E-07
+Numer próbka: 72Naprężenie: 4,13390066615749E-07
+Numer próbka: 73Naprężenie: 4,07803714364185E-07
+Numer próbka: 74Naprężenie: 4,02366331505996E-07
+Numer próbka: 75Naprężenie: 3,9707203767039E-07
+Numer próbka: 76Naprężenie: 3,91915257960385E-07
+Numer próbka: 77Naprężenie: 3,8689070337115E-07
+Numer próbka: 78Naprężenie: 3,81993352695565E-07
+Numer próbka: 79Naprężenie: 3,77218435786871E-07
+Dodano punkty o współrzędnych: 3,01774748629497E-05 10,75
+Dodano punkty o współrzędnych: 1,50887374314748E-05 15,25
+Dodano punkty o współrzędnych: 1,00591582876499E-05 14,5
+Dodano punkty o współrzędnych: 7,54436871573742E-06 13
+Dodano punkty o współrzędnych: 6,03549497258993E-06 8
+Dodano punkty o współrzędnych: 5,02957914382495E-06 11,75
+Dodano punkty o współrzędnych: 4,31106783756424E-06 10,75
+Dodano punkty o współrzędnych: 3,77218435786871E-06 9,5
+Dodano punkty o współrzędnych: 3,35305276254996E-06 12,5
+Dodano punkty o współrzędnych: 3,01774748629497E-06 13
+Dodano punkty o współrzędnych: 2,7434068057227E-06 18,5
+Dodano punkty o współrzędnych: 2,51478957191247E-06 10
+Dodano punkty o współrzędnych: 2,3213442202269E-06 13,25
+Dodano punkty o współrzędnych: 2,15553391878212E-06 18,25
+Dodano punkty o współrzędnych: 2,01183165752998E-06 11,75
+Dodano punkty o współrzędnych: 1,88609217893435E-06 10,75
+Dodano punkty o współrzędnych: 1,77514558017351E-06 9,25
+Dodano punkty o współrzędnych: 1,67652638127498E-06 8,5
+Dodano punkty o współrzędnych: 1,58828815068156E-06 10,75
+Dodano punkty o współrzędnych: 1,50887374314748E-06 9,5
+Dodano punkty o współrzędnych: 1,43702261252141E-06 13,75
+Dodano punkty o współrzędnych: 1,37170340286135E-06 9,5
+Dodano punkty o współrzędnych: 1,31206412447607E-06 8
+Dodano punkty o współrzędnych: 1,25739478595624E-06 11,5
+Dodano punkty o współrzędnych: 1,20709899451799E-06 12,75
+Dodano punkty o współrzędnych: 1,16067211011345E-06 15,75
+Dodano punkty o współrzędnych: 1,11768425418332E-06 12,5
+Dodano punkty o współrzędnych: 1,07776695939106E-06 16
+Dodano punkty o współrzędnych: 1,04060258148102E-06 15,75
+Dodano punkty o współrzędnych: 1,00591582876499E-06 19
+Dodano punkty o współrzędnych: 9,73466931062893E-07 18,75
+Dodano punkty o współrzędnych: 9,43046089467177E-07 22
+Dodano punkty o współrzędnych: 9,14468935240899E-07 27
+Dodano punkty o współrzędnych: 8,87572790086755E-07 25,75
+Dodano punkty o współrzędnych: 8,62213567512848E-07 26,75
+Dodano punkty o współrzędnych: 8,38263190637491E-07 19,5
+Dodano punkty o współrzędnych: 8,15607428728369E-07 21,75
+Dodano punkty o współrzędnych: 7,94144075340781E-07 27,75
+Dodano punkty o współrzędnych: 7,73781406742299E-07 37,25
+Dodano punkty o współrzędnych: 7,54436871573742E-07 35,25
+Dodano punkty o współrzędnych: 7,36035972267065E-07 53
+Dodano punkty o współrzędnych: 7,18511306260706E-07 47,75
+Dodano punkty o współrzędnych: 7,01801740998829E-07 39
+Dodano punkty o współrzędnych: 6,85851701430674E-07 40,75
+Dodano punkty o współrzędnych: 6,70610552509993E-07 40,25
+Dodano punkty o współrzędnych: 6,56032062238036E-07 50,75
+Dodano punkty o współrzędnych: 6,42073933254248E-07 60,75
+Dodano punkty o współrzędnych: 6,28697392978118E-07 56
+Dodano punkty o współrzędnych: 6,15866833937748E-07 67
+Dodano punkty o współrzędnych: 6,03549497258993E-07 74,25
+Dodano punkty o współrzędnych: 5,9171519339117E-07 74
+Dodano punkty o współrzędnych: 5,80336055056724E-07 73
+Dodano punkty o współrzędnych: 5,69386318168862E-07 75,75
+Dodano punkty o współrzędnych: 5,58842127091661E-07 61,5
+Dodano punkty o współrzędnych: 5,48681361144539E-07 68,75
+Dodano punkty o współrzędnych: 5,3888347969553E-07 77,25
+Dodano punkty o współrzędnych: 5,2942938356052E-07 83,25
+Dodano punkty o współrzędnych: 5,20301290740512E-07 88,5
+Dodano punkty o współrzędnych: 5,11482624795757E-07 84,75
+Dodano punkty o współrzędnych: 5,02957914382495E-07 86,25
+Dodano punkty o współrzędnych: 4,94712702671306E-07 94,25
+Dodano punkty o współrzędnych: 4,86733465531446E-07 89,25
+Dodano punkty o współrzędnych: 4,79007537507138E-07 92,5
+Dodano punkty o współrzędnych: 4,71523044733589E-07 91
+Dodano punkty o współrzędnych: 4,6426884404538E-07 98,5
+Dodano punkty o współrzędnych: 4,5723446762045E-07 90,75
+Dodano punkty o współrzędnych: 4,50410072581338E-07 95,25
+Dodano punkty o współrzędnych: 4,43786395043377E-07 112,25
+Dodano punkty o współrzędnych: 4,37354708158691E-07 116,75
+Dodano punkty o współrzędnych: 4,31106783756424E-07 117,5
+Dodano punkty o współrzędnych: 4,25034857224643E-07 112,5
+Dodano punkty o współrzędnych: 4,19131595318745E-07 116,25
+Dodano punkty o współrzędnych: 4,13390066615749E-07 116,75
+Dodano punkty o współrzędnych: 4,07803714364185E-07 124,75
+Dodano punkty o współrzędnych: 4,02366331505996E-07 110,5
+Dodano punkty o współrzędnych: 3,9707203767039E-07 106
+Dodano punkty o współrzędnych: 3,91915257960385E-07 121,5
+Dodano punkty o współrzędnych: 3,8689070337115E-07 107
+Dodano punkty o współrzędnych: 3,81993352695565E-07 111,5
+Dodano punkty o współrzędnych: 3,77218435786871E-07 110,75
+Dodano punkty o współrzędnych: 3,01774748629497E-05 17,283567172686
+Dodano punkty o współrzędnych: 1,50887374314748E-05 20,3182837331783
+Dodano punkty o współrzędnych: 1,00591582876499E-05 20,7649820430708
+Dodano punkty o współrzędnych: 7,54436871573742E-06 16,9370039370059
+Dodano punkty o współrzędnych: 6,03549497258993E-06 11,5355339059327
+Dodano punkty o współrzędnych: 5,02957914382495E-06 15,1686985827943
+Dodano punkty o współrzędnych: 4,31106783756424E-06 16,4234028589551
+Dodano punkty o współrzędnych: 3,77218435786871E-06 11,1583123951777
+Dodano punkty o współrzędnych: 3,35305276254996E-06 17,908326913196
+Dodano punkty o współrzędnych: 3,01774748629497E-06 21,6890735984914
+Dodano punkty o współrzędnych: 2,7434068057227E-06 26,5467384697155
+Dodano punkty o współrzędnych: 2,51478957191247E-06 13,3166247903554
+Dodano punkty o współrzędnych: 2,3213442202269E-06 17,9603609203542
+Dodano punkty o współrzędnych: 2,15553391878212E-06 31,121965661856
+Dodano punkty o współrzędnych: 2,01183165752998E-06 17,2896299515401
+Dodano punkty o współrzędnych: 1,88609217893435E-06 14,0947720400649
+Dodano punkty o współrzędnych: 1,77514558017351E-06 16,7458321752825
+Dodano punkty o współrzędnych: 1,67652638127498E-06 13,2696960070847
+Dodano punkty o współrzędnych: 1,58828815068156E-06 14,3119517121938
+Dodano punkty o współrzędnych: 1,50887374314748E-06 11,7912878474779
+Dodano punkty o współrzędnych: 1,43702261252141E-06 19,9296035471541
+Dodano punkty o współrzędnych: 1,37170340286135E-06 12,1925824035673
+Dodano punkty o współrzędnych: 1,31206412447607E-06 12,3011626335213
+Dodano punkty o współrzędnych: 1,25739478595624E-06 13,5615528128088
+Dodano punkty o współrzędnych: 1,20709899451799E-06 17,8673723726147
+Dodano punkty o współrzędnych: 1,16067211011345E-06 23,2458321752825
+Dodano punkty o współrzędnych: 1,11768425418332E-06 20,0663729752108
+Dodano punkty o współrzędnych: 1,07776695939106E-06 23,3143694191639
+Dodano punkty o współrzędnych: 1,04060258148102E-06 21,4672983130146
+Dodano punkty o współrzędnych: 1,00591582876499E-06 29,1734949746879
+Dodano punkty o współrzędnych: 9,73466931062893E-07 30,6111761642765
+Dodano punkty o współrzędnych: 9,43046089467177E-07 30,8600225733347
+Dodano punkty o współrzędnych: 9,14468935240899E-07 36,2736184954957
+Dodano punkty o współrzędnych: 8,87572790086755E-07 36,006095748383
+Dodano punkty o współrzędnych: 8,62213567512848E-07 41,7562486984589
+Dodano punkty o współrzędnych: 8,38263190637491E-07 33,9654761414894
+Dodano punkty o współrzędnych: 8,15607428728369E-07 36,1960202131937
+Dodano punkty o współrzędnych: 7,94144075340781E-07 42,0569039278245
+Dodano punkty o współrzędnych: 7,73781406742299E-07 56,8889281784928
+Dodano punkty o współrzędnych: 7,54436871573742E-07 49,7994845269515
+Dodano punkty o współrzędnych: 7,36035972267065E-07 73,6276513447363
+Dodano punkty o współrzędnych: 7,18511306260706E-07 66,3022909636519
+Dodano punkty o współrzędnych: 7,01801740998829E-07 48,5131487952202
+Dodano punkty o współrzędnych: 6,85851701430674E-07 52,8820855585509
+Dodano punkty o współrzędnych: 6,70610552509993E-07 54,5569039278245
+Dodano punkty o współrzędnych: 6,56032062238036E-07 64,5589644796415
+Dodano punkty o współrzędnych: 6,42073933254248E-07 81,1384158286023
+Dodano punkty o współrzędnych: 6,28697392978118E-07 71,2970585407784
+Dodano punkty o współrzędnych: 6,15866833937748E-07 95,8877136513086
+Dodano punkty o współrzędnych: 6,03549497258993E-07 103,416547618805
+Dodano punkty o współrzędnych: 5,9171519339117E-07 97,5265807120372
+Dodano punkty o współrzędnych: 5,80336055056724E-07 97,8696602308918
+Dodano punkty o współrzędnych: 5,69386318168862E-07 105,401096101156
+Dodano punkty o współrzędnych: 5,58842127091661E-07 89,1541136180497
+Dodano punkty o współrzędnych: 5,48681361144539E-07 100,564894310684
+Dodano punkty o współrzędnych: 5,3888347969553E-07 111,727347635803
+Dodano punkty o współrzędnych: 5,2942938356052E-07 114,70135132232
+Dodano punkty o współrzędnych: 5,20301290740512E-07 131,357321428199
+Dodano punkty o współrzędnych: 5,11482624795757E-07 117,410182179529
+Dodano punkty o współrzędnych: 5,02957914382495E-07 121,316900347764
+Dodano punkty o współrzędnych: 4,94712702671306E-07 122,065238629212
+Dodano punkty o współrzędnych: 4,86733465531446E-07 108,837942719949
+Dodano punkty o współrzędnych: 4,79007537507138E-07 120,912145290351
+Dodano punkty o współrzędnych: 4,71523044733589E-07 120,008619408721
+Dodano punkty o współrzędnych: 4,6426884404538E-07 118,853132437048
+Dodano punkty o współrzędnych: 4,5723446762045E-07 103,79559312565
+Dodano punkty o współrzędnych: 4,50410072581338E-07 110,585824073065
+Dodano punkty o współrzędnych: 4,43786395043377E-07 123,50555418449
+Dodano punkty o współrzędnych: 4,37354708158691E-07 139,786655573238
+Dodano punkty o współrzędnych: 4,31106783756424E-07 138,589096708963
+Dodano punkty o współrzędnych: 4,25034857224643E-07 135,319947414488
+Dodano punkty o współrzędnych: 4,19131595318745E-07 136,490738622886
+Dodano punkty o współrzędnych: 4,13390066615749E-07 134,347940220378
+Dodano punkty o współrzędnych: 4,07803714364185E-07 146,571720830402
+Dodano punkty o współrzędnych: 4,02366331505996E-07 130,717566619156
+Dodano punkty o współrzędnych: 3,9707203767039E-07 128
+Dodano punkty o współrzędnych: 3,91915257960385E-07 139,534688796871
+Dodano punkty o współrzędnych: 3,8689070337115E-07 131,566236993077
+Dodano punkty o współrzędnych: 3,81993352695565E-07 133,323152842795
+Dodano punkty o współrzędnych: 3,77218435786871E-07 146,835835171158
+Dodano punkty o współrzędnych: 3,01774748629497E-05 4,21643282731401
+Dodano punkty o współrzędnych: 1,50887374314748E-05 10,1817162668217
+Dodano punkty o współrzędnych: 1,00591582876499E-05 8,23501795692917
+Dodano punkty o współrzędnych: 7,54436871573742E-06 9,0629960629941
+Dodano punkty o współrzędnych: 6,03549497258993E-06 4,46446609406726
+Dodano punkty o współrzędnych: 5,02957914382495E-06 8,33130141720566
+Dodano punkty o współrzędnych: 4,31106783756424E-06 5,07659714104489
+Dodano punkty o współrzędnych: 3,77218435786871E-06 7,8416876048223
+Dodano punkty o współrzędnych: 3,35305276254996E-06 7,09167308680402
+Dodano punkty o współrzędnych: 3,01774748629497E-06 4,31092640150862
+Dodano punkty o współrzędnych: 2,7434068057227E-06 10,4532615302845
+Dodano punkty o współrzędnych: 2,51478957191247E-06 6,6833752096446
+Dodano punkty o współrzędnych: 2,3213442202269E-06 8,53963907964581
+Dodano punkty o współrzędnych: 2,15553391878212E-06 5,378034338144
+Dodano punkty o współrzędnych: 2,01183165752998E-06 6,21037004845992
+Dodano punkty o współrzędnych: 1,88609217893435E-06 7,40522795993509
+Dodano punkty o współrzędnych: 1,77514558017351E-06 1,75416782471753
+Dodano punkty o współrzędnych: 1,67652638127498E-06 3,73030399291527
+Dodano punkty o współrzędnych: 1,58828815068156E-06 7,18804828780625
+Dodano punkty o współrzędnych: 1,50887374314748E-06 7,20871215252208
+Dodano punkty o współrzędnych: 1,43702261252141E-06 7,57039645284586
+Dodano punkty o współrzędnych: 1,37170340286135E-06 6,80741759643275
+Dodano punkty o współrzędnych: 1,31206412447607E-06 3,69883736647869
+Dodano punkty o współrzędnych: 1,25739478595624E-06 9,43844718719117
+Dodano punkty o współrzędnych: 1,20709899451799E-06 7,63262762738532
+Dodano punkty o współrzędnych: 1,16067211011345E-06 8,25416782471753
+Dodano punkty o współrzędnych: 1,11768425418332E-06 4,93362702478922
+Dodano punkty o współrzędnych: 1,07776695939106E-06 8,6856305808361
+Dodano punkty o współrzędnych: 1,04060258148102E-06 10,0327016869854
+Dodano punkty o współrzędnych: 1,00591582876499E-06 8,8265050253121
+Dodano punkty o współrzędnych: 9,73466931062893E-07 6,88882383572354
+Dodano punkty o współrzędnych: 9,43046089467177E-07 13,1399774266653
+Dodano punkty o współrzędnych: 9,14468935240899E-07 17,7263815045043
+Dodano punkty o współrzędnych: 8,87572790086755E-07 15,493904251617
+Dodano punkty o współrzędnych: 8,62213567512848E-07 11,7437513015411
+Dodano punkty o współrzędnych: 8,38263190637491E-07 5,03452385851057
+Dodano punkty o współrzędnych: 8,15607428728369E-07 7,30397978680633
+Dodano punkty o współrzędnych: 7,94144075340781E-07 13,4430960721755
+Dodano punkty o współrzędnych: 7,73781406742299E-07 17,6110718215072
+Dodano punkty o współrzędnych: 7,54436871573742E-07 20,7005154730485
+Dodano punkty o współrzędnych: 7,36035972267065E-07 32,3723486552637
+Dodano punkty o współrzędnych: 7,18511306260706E-07 29,1977090363481
+Dodano punkty o współrzędnych: 7,01801740998829E-07 29,4868512047798
+Dodano punkty o współrzędnych: 6,85851701430674E-07 28,6179144414491
+Dodano punkty o współrzędnych: 6,70610552509993E-07 25,9430960721755
+Dodano punkty o współrzędnych: 6,56032062238036E-07 36,9410355203585
+Dodano punkty o współrzędnych: 6,42073933254248E-07 40,3615841713977
+Dodano punkty o współrzędnych: 6,28697392978118E-07 40,7029414592216
+Dodano punkty o współrzędnych: 6,15866833937748E-07 38,1122863486914
+Dodano punkty o współrzędnych: 6,03549497258993E-07 45,0834523811953
+Dodano punkty o współrzędnych: 5,9171519339117E-07 50,4734192879628
+Dodano punkty o współrzędnych: 5,80336055056724E-07 48,1303397691082
+Dodano punkty o współrzędnych: 5,69386318168862E-07 46,0989038988438
+Dodano punkty o współrzędnych: 5,58842127091661E-07 33,8458863819503
+Dodano punkty o współrzędnych: 5,48681361144539E-07 36,9351056893159
+Dodano punkty o współrzędnych: 5,3888347969553E-07 42,7726523641972
+Dodano punkty o współrzędnych: 5,2942938356052E-07 51,79864867768
+Dodano punkty o współrzędnych: 5,20301290740512E-07 45,6426785718006
+Dodano punkty o współrzędnych: 5,11482624795757E-07 52,0898178204714
+Dodano punkty o współrzędnych: 5,02957914382495E-07 51,1830996522362
+Dodano punkty o współrzędnych: 4,94712702671306E-07 66,4347613707881
+Dodano punkty o współrzędnych: 4,86733465531446E-07 69,6620572800511
+Dodano punkty o współrzędnych: 4,79007537507138E-07 64,0878547096493
+Dodano punkty o współrzędnych: 4,71523044733589E-07 61,9913805912794
+Dodano punkty o współrzędnych: 4,6426884404538E-07 78,1468675629524
+Dodano punkty o współrzędnych: 4,5723446762045E-07 77,7044068743503
+Dodano punkty o współrzędnych: 4,50410072581338E-07 79,914175926935
+Dodano punkty o współrzędnych: 4,43786395043377E-07 100,99444581551
+Dodano punkty o współrzędnych: 4,37354708158691E-07 93,713344426762
+Dodano punkty o współrzędnych: 4,31106783756424E-07 96,4109032910369
+Dodano punkty o współrzędnych: 4,25034857224643E-07 89,6800525855119
+Dodano punkty o współrzędnych: 4,19131595318745E-07 96,0092613771137
+Dodano punkty o współrzędnych: 4,13390066615749E-07 99,1520597796219
+Dodano punkty o współrzędnych: 4,07803714364185E-07 102,928279169598
+Dodano punkty o współrzędnych: 4,02366331505996E-07 90,2824333808443
+Dodano punkty o współrzędnych: 3,9707203767039E-07 84
+Dodano punkty o współrzędnych: 3,91915257960385E-07 103,465311203129
+Dodano punkty o współrzędnych: 3,8689070337115E-07 82,4337630069235
+Dodano punkty o współrzędnych: 3,81993352695565E-07 89,6768471572048
+Dodano punkty o współrzędnych: 3,77218435786871E-07 74,6641648288418

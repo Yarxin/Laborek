@@ -27,6 +27,8 @@ namespace AAiLProject.ViewModels
         private IList<DataPoint> hydrodynamicStressPlot;
         private IList<DataPoint> meanAndStressPlot;
         private IList<DataPoint> halfRateStressValue;
+        private IList<DataPoint> meanAndStressLowerPlot;
+        private IList<DataPoint> meanAndStressUpperPlot;
 
         private bool isDiagonal;
 
@@ -201,6 +203,34 @@ namespace AAiLProject.ViewModels
             }
         }
 
+        public IList<DataPoint> MeanAndStressLowerPlot
+        {
+            get
+            {
+                return this.meanAndStressLowerPlot;
+            }
+
+            set
+            {
+                this.meanAndStressLowerPlot = value;
+                this.NotifyOfPropertyChange(() => this.MeanAndStressLowerPlot);
+            }
+        }
+
+        public IList<DataPoint> MeanAndStressUpperPlot
+        {
+            get
+            {
+                return this.meanAndStressUpperPlot;
+            }
+
+            set
+            {
+                this.meanAndStressUpperPlot = value;
+                this.NotifyOfPropertyChange(() => this.MeanAndStressUpperPlot);
+            }
+        }
+
         public double CellNumber
         {
             get
@@ -304,10 +334,11 @@ namespace AAiLProject.ViewModels
             if (this.HydrodynamicStressPlot != null && this.MeanPlot != null)
             {
                 this.MeanAndStressPlot = this.cellAndStressService.GetCellAndStressPoints(this.HydrodynamicStressPlot, this.MeanPlot);
+                this.MeanAndStressLowerPlot = this.cellAndStressService.GetCellAndStressPoints(this.HydrodynamicStressPlot, this.LowerConfidenceIntervalPlot);
+                this.MeanAndStressUpperPlot = this.cellAndStressService.GetCellAndStressPoints(this.HydrodynamicStressPlot, this.UpperConfidenceIntervalPlot);
 
                 int index = this.cellAndStressService.GetIndexOfHalfValue(this.MeanPlot);
                 double halfRateStressValue = this.HydrodynamicStressPlot[index].Y;
-                double halRateCellValue = this.MeanPlot[index].Y;
 
                 for (int i = 0; i < this.HydrodynamicStressPlot.Count; i++)
                 {
